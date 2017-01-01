@@ -1,0 +1,102 @@
+
+.no-border {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+}
+
+
+#title { width: 69%; } 
+
+
+.center-image{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+
+#highlight{
+
+background-color: #273eb2;
+
+}
+
+html, body {
+    max-width: 100%;
+}
+
+body{
+width: 100%;
+}
+
+.mission {
+padding: 50px;
+}
+
+
+.white {
+background-color: white;
+}
+
+.sml-text{
+    font-size: 20px; //change this to your desired size
+     spacing: 0px;
+margin: 0;
+}
+
+.maroon {
+  background-color:transparent !important;
+}
+
+.btn-xlarge {
+    padding: 22px 28px;
+    font-size: 28px; //change this to your desired size
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
+.row {
+  padding: 30px;
+}
+
+.pg {
+  background: url('https://static.wixstatic.com/media/127797_95130732e77c4f9094979c07421b98e3.jpg/v1/fill/w_838,h_559,al_c,q_90,usm_0.66_1.00_0.01/127797_95130732e77c4f9094979c07421b98e3.webp') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 350px;
+  /*same height as jumbotron */
+  top: 300;
+  left: 0;
+  z-index: -1;
+}
+
+.bg {
+  background: url('/Assets/Banner.png') no-repeat center;
+  position: fixed;
+  width: 100%;
+  height: 350px;
+  /*same height as jumbotron */
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#title {
+  padding: 50px;
+  height: 350px;
+  color: white;
+  text-shadow: #444 0 1px 1px;
+  background: transparent;
+}
+
+.jumbotron2 {
+  height: 350px;
+  color: white;
+  text-shadow: #444 0 1px 1px;
+  background: transparent;
+}
+
